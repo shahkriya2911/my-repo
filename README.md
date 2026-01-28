@@ -1,4 +1,4 @@
 # my-repo
 This is my first repo.
 <br>
-Author-Kriya Shah
+Author-Kriya Shah(Student)
